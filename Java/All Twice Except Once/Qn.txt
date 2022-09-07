@@ -1,0 +1,5 @@
+All Twice Except One
+
+You are given a number N, and an array such that the array contains all the numbers from 1 to N including N twice, except for one, which is present only once.
+
+You have to find the number which is present only once, in the array

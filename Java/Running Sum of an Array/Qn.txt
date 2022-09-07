@@ -1,0 +1,5 @@
+Running Sum of an Array
+
+You are given an array A containing N integers, find the running sum of the array.
+
+The running sum of the array is defined as the sum of all the elements of the array that exists before the current element, including the current element
