@@ -5,3 +5,12 @@ Jim and Pam are inviting friends for a party. But, they want to invite only thos
 Both, Jim and Pam make their separate invite listAandBbased on the number of people, they have taken help from. Find out if the lists created by the two of them are same or not.
 
 Note: A person might have helped them multiple times, and obviously would be invited only once
+
+
+The first line of the input containsN, the number of people Pam has taken help from
+
+Next line containsNspace separated integers, indicating the ID's of the people, Pam has taken help from
+
+The next line containsM, the number of people Jim has taken help from
+
+Next line containsMspace separated integers, indicating the ID's of the people, Jim has taken help from
